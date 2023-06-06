@@ -8,6 +8,7 @@
 </div>
 
 
+
 <div align="center">
   <img src="assets/sc.png" alt="SlapDefender">
 </div>
