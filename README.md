@@ -7,6 +7,7 @@
   SlapDefender, Windows Defender'ı etkinleştirme veya devre dışı bırakma işlemlerini gerçekleştirebilen C# .NET dilinde yazılmış güçlü bir programdır.
 </div>
 
+
 <div align="center">
-  <img src="assets/ss.png" alt="SlapDefender">
+  <img src="assets/sc.png" alt="SlapDefender">
 </div>
