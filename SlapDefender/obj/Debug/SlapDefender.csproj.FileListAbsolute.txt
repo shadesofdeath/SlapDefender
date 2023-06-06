@@ -1,0 +1,11 @@
+C:\Users\shades\source\repos\SlapDefender\SlapDefender\bin\Debug\SlapDefender.exe.config
+C:\Users\shades\source\repos\SlapDefender\SlapDefender\bin\Debug\SlapDefender.exe
+C:\Users\shades\source\repos\SlapDefender\SlapDefender\bin\Debug\SlapDefender.pdb
+C:\Users\shades\source\repos\SlapDefender\SlapDefender\obj\Debug\SlapDefender.csproj.AssemblyReference.cache
+C:\Users\shades\source\repos\SlapDefender\SlapDefender\obj\Debug\SlapDefender.csproj.SuggestedBindingRedirects.cache
+C:\Users\shades\source\repos\SlapDefender\SlapDefender\obj\Debug\SlapDefender.Properties.Resources.resources
+C:\Users\shades\source\repos\SlapDefender\SlapDefender\obj\Debug\SlapDefender.csproj.GenerateResource.cache
+C:\Users\shades\source\repos\SlapDefender\SlapDefender\obj\Debug\SlapDefender.csproj.CoreCompileInputs.cache
+C:\Users\shades\source\repos\SlapDefender\SlapDefender\obj\Debug\SlapDefender.exe
+C:\Users\shades\source\repos\SlapDefender\SlapDefender\obj\Debug\SlapDefender.pdb
+C:\Users\shades\source\repos\SlapDefender\SlapDefender\obj\Debug\SlapDefender.Form1.resources
